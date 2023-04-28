@@ -1,0 +1,12 @@
+Frontend: 
+    -> code refactoring (remove unused components and redure code redundency)
+    -> status section in watchlist (group animes based on status)
+    -> user profile page
+
+Backend
+    -> refactor code
+        - break up routes into different files
+        - used stored procedures for queries
+        - extract some more data
+        - improve data scraping algorithm
+        
